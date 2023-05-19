@@ -14,5 +14,6 @@ To install the app, follow these steps:
 
 - Clone this repository from GitHub.
 - Install the required dependencies with `pip`:
+
 	`pip install sqlite3 questionary prettytable`
 - Run the app: `python main.py`
